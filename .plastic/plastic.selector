@@ -1,0 +1,4 @@
+repository "FPSGame@Saasku@cloud"
+  path "/"
+    br "/main"
+    co "/main"
